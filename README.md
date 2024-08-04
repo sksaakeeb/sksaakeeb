@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sksakib066@gmail.com**
 
-- ⚡ Fun fact **I thing, I will be a billionaire**
+- ⚡ Fun fact **I think, I will be a billionaire**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
