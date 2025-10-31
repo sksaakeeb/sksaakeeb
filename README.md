@@ -8,7 +8,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **TechFloww!**
  
  🌱 I’m currently learning **React Native, React.js, Python.**
 
